@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matt-auckland/ngx-i18n-report"
+  },
   "keywords": [
     "angular",
     "i18n",
