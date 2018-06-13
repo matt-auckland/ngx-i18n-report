@@ -1,0 +1,19 @@
+{
+  "name": "ngx-i18n-report",
+  "version": "0.0.1",
+  "description": "Parses .xlf files and creates a report about translated lines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "i18n",
+    "report"
+  ],
+  "author": "matt-auckland",
+  "license": "MIT",
+  "dependencies": {
+    "xml2json": "^0.11.2"
+  }
+}
