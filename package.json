@@ -1,6 +1,6 @@
 {
   "name": "ngx-i18n-report",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Parses .xlf files and creates a report about translated lines",
   "main": "index.js",
   "scripts": {
